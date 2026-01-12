@@ -32,4 +32,4 @@ etkili olduğu görülmüştür.
 
 ## Proje Sahipleri
 - Halil Emrah Kaya   Okul Numarası:24430070075 
-- Muhammet Sefa Akaya Okul Numarası:24430070023
+- Muhammet Sefa Akay Okul Numarası:24430070023
